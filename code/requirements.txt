@@ -1,0 +1,11 @@
+attrs
+boto3
+botocore
+pandas
+pyparsing
+python-dateutil
+s3transfer
+sagemaker
+scikit-learn
+pytorch-lightning
+shap
